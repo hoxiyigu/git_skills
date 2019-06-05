@@ -4,3 +4,4 @@ Creating a new branch is quick and simple.
 no-ff
 no-ff2
 no-ff3
+fix bug
